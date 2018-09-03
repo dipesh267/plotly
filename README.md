@@ -1,3 +1,3 @@
 # plotly
 
-Testing push
+Screen shot in file called Plot.png
